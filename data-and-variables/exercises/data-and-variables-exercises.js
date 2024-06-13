@@ -2,7 +2,7 @@
 
 // Use console.log to print the 'typeof' each variable. Print one item per line.
 
-let shuttleName = "Determination"
+let shuttleNames = "Determination"
 console.log(typeof shuttleName)
 
 let shuttleSpeedMph = (17500)
@@ -30,7 +30,7 @@ console.log(days_to_mars)
 
 // Print the results of the space mission calculations below
 
-console.log(shuttleName , 'will take', days_to_mars, 'days to reach to mars.')
+console.log(shuttleNames , 'will take', days_to_mars, 'days to reach to mars.')
 
 // Calculate a trip to the moon below
 
@@ -45,5 +45,5 @@ console.log(days_to_moon)
 
 // Print the results of the trip to the moon below
 
-console.log(shuttleName, 'will take', days_to_moon, 'days to reach to moon.')
+console.log(shuttleNames, 'will take', days_to_moon, 'days to reach to moon.')
 
